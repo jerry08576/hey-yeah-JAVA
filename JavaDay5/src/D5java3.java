@@ -20,8 +20,7 @@ public class D5java3 {
 			}
 	
            for(int  i=1;i<=v2-1;i++){
-	          for(int j =0;j<i
-	        		  ++;j++){
+	          for(int j =0;j<i;j++){
 		              System.out.print(" ");
 	}
 	          for(int k=0;k<=(v2-i-1)*2;k++){
